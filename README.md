@@ -1,2 +1,3 @@
 # date_struct_exercise
-数据结构练习版仓库，专用于各类数据结构算法与题目的练习实现，适合刷题、实验和个人提升。
+数据结构练习版仓库，专用于各类数据结构算法与题目的练习，基于腾讯云主机（上海1）
+会再写data_struct_acadamic和data_struct_engineering中的代码
